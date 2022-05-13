@@ -1,0 +1,29 @@
+.contenido{
+    height: 1050px;
+    width: 100%;
+    font-family: $fuente;
+    h1{
+        font-size: 120px;
+        margin-left: 150px;
+        margin-top: 220px;
+    }
+    p{
+        font-size: 150px;
+        font-weight: bolder;
+        color: $color;
+        margin-left: 150px;
+    }
+    .control{
+        height: 550px;
+        width: 850px;
+        transform: rotate(15deg);
+        margin-left: 800px;
+        margin-top: -700px;
+    }
+    .play img{
+        height: 120px;
+        width: 120px;
+        margin-left: 300px;
+        margin-top: 10px;
+    }
+}
